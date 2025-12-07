@@ -29,7 +29,3 @@ cd route_optimizer_ga
 ```bash
 python main.py
 ```
-
-## 授權 (License)
-
-本專案採用 MIT License 授權。
